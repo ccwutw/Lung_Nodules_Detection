@@ -9,3 +9,6 @@ Lung cancer is the most common type worldwide, often resulting in death. One key
 </p>
 
 ## Getting Started Guide
+### Preprocessing
+### Training
+### Testing
