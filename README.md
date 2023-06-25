@@ -10,12 +10,12 @@ Lung cancer is the most common type worldwide, often resulting in death. One key
 
 ## Getting Started Guide
 ### Preprocessing
-These processes includes segmenting the ROI (the lungs) from the surrounding regions in the CT images. These include
+The preprocessing processe focused on segmenting the ROI (the lungs) from the surrounding regions in the CT images. The detailed breakdown is listed below:
 
-    Extracting Lungs
-    Extracting nodule masks
-    Binary Thresholding
-    Erosion & Dilation for removing noise
+- Extracting Lungs
+- Extracting nodule masks
+- Binary Thresholding
+- Erosion & Dilation for removing noise
 
 
 ### Training
