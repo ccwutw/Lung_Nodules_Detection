@@ -19,5 +19,7 @@ The preprocessing processe focused on segmenting the ROI (the lungs) from the su
 
 
 ### Training
+The deep neural network architecture which is mainly used in this project to train a model.
 
 ### Testing
+Ten test sample has been randomly chosen to verify the model accuracy after the training. The testing results are shown as following. 
